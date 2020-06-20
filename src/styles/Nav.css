@@ -1,0 +1,6 @@
+.nav-container {
+  height: 47px;
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
